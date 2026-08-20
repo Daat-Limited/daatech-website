@@ -323,7 +323,7 @@ h2 span {
 .feature-card {
   position: relative;
   padding: 28px;
-  min-height: 260px;
+  min-height: 220px;
   border: 1px solid var(--line);
   background: white;
   border-radius: var(--radius);
@@ -361,7 +361,7 @@ h2 span {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   font-weight: 800;
   margin-bottom: 22px;
 }
@@ -484,7 +484,7 @@ h2 span {
 
 .portrait-placeholder {
   width: 310px;
-  height: 350px;
+  height: 310px;
   border-radius: 155px 155px 35px 35px;
   background:
     radial-gradient(circle at 50% 33%, rgba(10,132,232,.9) 0 45px, transparent 46px),
@@ -694,9 +694,9 @@ h2 span {
   display: inline-block;
   margin-top: 12px;
   color: #55B0FF;
-  font-size: .76rem;
+  font-size: .96rem;
   font-weight: 700;
-  letter-spacing: .1em;
+  letter-spacing: .2em;
 }
 
 .footer-legal {
@@ -727,7 +727,7 @@ h2 span {
   .two-column,
   .audience-grid {
     grid-template-columns: 1fr;
-    gap: 50px;
+    gap: 30px;
   }
 
   .hero-grid {
