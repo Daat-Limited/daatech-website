@@ -16,6 +16,9 @@ data-protection.html       Legal — Data Protection
 complaints-support.html    Legal — Complaints & Customer Support
 css/style.css              All styling
 js/main.js                 Mobile menu toggle
+favicon.svg                Browser tab icon (modern browsers)
+favicon.ico                Browser tab icon fallback (older browsers)
+apple-touch-icon.png       Home-screen icon for iOS/Safari
 ```
 
 The "DAATECH" wordmark and triangle mark in the header/footer are drawn in CSS/SVG directly in the HTML — there's no logo image file to keep track of or swap out.
